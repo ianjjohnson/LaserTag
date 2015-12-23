@@ -1,0 +1,66 @@
+TEAM ONE NAME
+	Name 1 tagged Name 5 17 times.
+	Name 1 tagged Name 7 26 times.
+	Name 1 tagged Name 8 22 times.
+	Name 1 tagged Name 9 28 times.
+	Name 1 tagged Name 6 20 times.
+	Name 1 had a total of 1067 points and 113 tags. 
+	Name 4 tagged Name 5 17 times.
+	Name 4 tagged Name 7 14 times.
+	Name 4 tagged Name 8 23 times.
+	Name 4 tagged Name 9 24 times.
+	Name 4 tagged Name 6 24 times.
+	Name 4 had a total of 934 points and 102 tags. 
+	Name 2 tagged Name 5 15 times.
+	Name 2 tagged Name 7 16 times.
+	Name 2 tagged Name 8 18 times.
+	Name 2 tagged Name 9 22 times.
+	Name 2 tagged Name 6 27 times.
+	Name 2 had a total of 996 points and 98 tags. 
+	Name 3 tagged Name 5 20 times.
+	Name 3 tagged Name 7 17 times.
+	Name 3 tagged Name 8 25 times.
+	Name 3 tagged Name 9 17 times.
+	Name 3 tagged Name 6 15 times.
+	Name 3 had a total of 852 points and 94 tags. 
+	Name 0 tagged Name 5 20 times.
+	Name 0 tagged Name 7 13 times.
+	Name 0 tagged Name 8 17 times.
+	Name 0 tagged Name 9 27 times.
+	Name 0 tagged Name 6 16 times.
+	Name 0 had a total of 842 points and 93 tags. 
+	TEAM ONE NAME: 4691 points.
+
+TEAM TWO NAME
+	Name 5 tagged Name 1 22 times.
+	Name 5 tagged Name 4 15 times.
+	Name 5 tagged Name 2 27 times.
+	Name 5 tagged Name 3 27 times.
+	Name 5 tagged Name 0 23 times.
+	Name 5 had a total of 1051 points and 114 tags. 
+	Name 7 tagged Name 1 21 times.
+	Name 7 tagged Name 4 11 times.
+	Name 7 tagged Name 2 23 times.
+	Name 7 tagged Name 3 31 times.
+	Name 7 tagged Name 0 24 times.
+	Name 7 had a total of 1084 points and 110 tags. 
+	Name 8 tagged Name 1 15 times.
+	Name 8 tagged Name 4 18 times.
+	Name 8 tagged Name 2 20 times.
+	Name 8 tagged Name 3 32 times.
+	Name 8 tagged Name 0 16 times.
+	Name 8 had a total of 913 points and 101 tags. 
+	Name 9 tagged Name 1 17 times.
+	Name 9 tagged Name 4 18 times.
+	Name 9 tagged Name 2 19 times.
+	Name 9 tagged Name 3 17 times.
+	Name 9 tagged Name 0 23 times.
+	Name 9 had a total of 932 points and 94 tags. 
+	Name 6 tagged Name 1 17 times.
+	Name 6 tagged Name 4 19 times.
+	Name 6 tagged Name 2 13 times.
+	Name 6 tagged Name 3 17 times.
+	Name 6 tagged Name 0 14 times.
+	Name 6 had a total of 739 points and 80 tags. 
+	TEAM TWO NAME: 4719 points.
+Overall Winners: TEAM TWO NAME

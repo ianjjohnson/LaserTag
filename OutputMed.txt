@@ -1,0 +1,19 @@
+TEAM ONE NAME
+	Name 1 had a total of 113 tags.
+	Name 4 had a total of 102 tags.
+	Name 2 had a total of 98 tags.
+	Name 3 had a total of 94 tags.
+	Name 0 had a total of 93 tags.
+
+TEAM TWO NAME
+	Name 5 had a total of 114 tags.
+	Name 7 had a total of 110 tags.
+	Name 8 had a total of 101 tags.
+	Name 9 had a total of 94 tags.
+	Name 6 had a total of 80 tags.
+
+Best score from TEAM ONE NAME: Name 1 (1067 points)
+Best score from TEAM TWO NAME: Name 7 (1084 points)
+TEAM ONE NAME: 4691 points.
+TEAM TWO NAME: 4719 points.
+Overall Winners: TEAM TWO NAME
